@@ -4,7 +4,7 @@
 - ✨ I'm more Curious about Quantum Computers.
 - 💞️ I’m looking to collaborate on open-source contributions, blockchain projects, and innovative AI solutions.
 - 📫 How to reach me sahildhakate53@gmail.com
-- ⚡ Fun fact: I love playing badminton and traveling to new places!
+- ⚡ Fun fact: I love playing badminton and traveling to new places but don't perform both task much freuently.
 
 <!---
 Garvit360/Garvit360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
